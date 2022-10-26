@@ -1,0 +1,21 @@
+
+.profile{
+    width: 640px;
+}
+
+.mainTheme{
+    background-color: rgb(210, 210, 210);
+    border: 2px solid rgb(210, 210, 210);
+    border-left: solid 10px blue;
+    color: black;
+    padding: 10px 10px;
+    width: 640px;
+}
+
+.subTheme{
+    background-color: rgb(210, 210, 210);
+    border: 2px solid rgb(210, 210, 210);
+    border-left: solid 10px yellow;
+    padding: 10px 10px;
+    width: 640px;
+}
